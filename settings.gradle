@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "DesafioApi2Picasso_27Agosto"
